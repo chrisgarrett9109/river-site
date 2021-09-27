@@ -312,10 +312,6 @@ body {
   background-color: gray;
 }
 
-.slide:link,
-.slide:visited {
-}
-
 .slide:hover,
 .slide:active {
   transition: all, 0.3s;
@@ -427,16 +423,9 @@ body {
   background-color: rgba(236, 101, 77, 0.596);
 }
 
-.btn-modal-close:link,
-.btn-modal-close:visited {
-}
-
 .btn-modal-close:hover,
 .btn-modal-close:active {
   background-color: rgb(236, 101, 77);
-}
-
-.modal-img-container {
 }
 
 .overlay {
@@ -590,9 +579,6 @@ body {
   cursor: pointer;
 }
 
-.btn-contact-submit:link,
-.btn-contact-submit:visited {
-}
 .btn-contact-submit:hover,
 .btn-contact-submit:active {
   background-color: #d9480f;
@@ -780,9 +766,6 @@ td {
   cursor: pointer;
 }
 
-.btn-jump:link,
-.btn-jump:visited {
-}
 .btn-jump:hover,
 .btn-jump:active {
   background-color: #d9480f;
