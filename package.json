@@ -4,9 +4,9 @@
   "description": "Website for managing river rental house.",
   "main": "script.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "dev": "parcel src/index.html",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "author": "Chris Garrett",
   "license": "ISC",
