@@ -358,7 +358,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
   }
 
   .slide {
-    height: 8.75rem;
+    height: 8.25rem;
     width: 11rem;
   }
 
@@ -410,11 +410,11 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
 *******************************/
 @media (max-width: 23em) {
   .modal {
-    transform: translate(-27%, -50%);
+    transform: translate(-24%, -50%);
   }
 
   .modal-img-container {
-    transform: scale(0.49, 0.49);
+    transform: scale(0.42, 0.42);
   }
 
   .btn-modal-left,
@@ -424,16 +424,16 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
   }
 
   .btn-modal-left {
-    margin-right: -16rem;
+    margin-right: -18rem;
   }
 
   .btn-modal-right {
-    margin-left: -16rem;
+    margin-left: -18rem;
   }
 
   .btn-modal-close {
-    right: 43%;
-    top: 21%;
+    right: 49%;
+    top: 24%;
     transform: scale(0.8, 0.8);
   }
 }

@@ -428,3 +428,7 @@ allLinks.forEach(function (link) {
     }
   });
 });
+
+if (module.hot) {
+  module.hot.accept();
+}
