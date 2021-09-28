@@ -104,8 +104,8 @@ body {
   align-items: center;
   background-image: url('/img/river-1.jpg');
   background-size: cover;
-  /* background-position: 0 10%; */
-  /* height: 42rem; */
+  background-position: 0 10%;
+  height: 42rem;
   opacity: 0.8;
 }
 
