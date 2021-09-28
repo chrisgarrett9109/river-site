@@ -115,7 +115,7 @@ body {
 
 .main-nav {
   display: flex;
-  justify-content: right;
+  justify-content: flex-end;
   align-items: center;
   background-color: rgba(80, 72, 65, 0.376);
   height: 6rem;
