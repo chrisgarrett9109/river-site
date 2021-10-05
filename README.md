@@ -5,6 +5,8 @@ It provides returning renters with an availability calendar and contact form, as
 
 
 ### COMING SOON...
-Testimonials - past renters
+- Admin login + add bookings to calendar
 
-Book + pay directly on site
+- Testimonials - past renters
+
+- Renters book + pay directly on site
