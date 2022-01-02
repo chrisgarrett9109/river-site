@@ -136,6 +136,25 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
 }
 
 /*******************************
+******* MAX-WIDTH 1024px ******* 
+*******************************/
+@media (max-width: 64em) {
+  .slider-box {
+    overflow: scroll;
+  }
+
+  .slider-box::-webkit-scrollbar {
+    display: none;
+  }
+
+  .btn-slider-left,
+  .btn-slider-right,
+  .slider-dots {
+    display: none;
+  }
+}
+
+/*******************************
 ******* MAX-WIDTH 896px ******* 
 *******************************/
 @media (max-width: 56em) {
@@ -238,7 +257,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
     width: 16rem;
   }
 
-  .btn-slider-left,
+  /* .btn-slider-left,
   .btn-slider-right {
     height: 5rem;
     transform: translateY(70%);
@@ -248,7 +267,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
     flex-wrap: wrap;
     justify-content: center;
     bottom: 0%;
-  }
+  } */
 
   .contact-section {
     max-width: 35rem;
@@ -301,9 +320,9 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
 ******* MAX-WIDTH 668px ******* 
 *******************************/
 @media (max-width: 41.75em) {
-  .slider-dots {
+  /* .slider-dots {
     display: none;
-  }
+  } */
   .slider-box {
     height: 20rem;
   }
@@ -311,7 +330,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
     height: 10.5rem;
     width: 14rem;
   }
-  .btn-slider-left,
+  /* .btn-slider-left,
   .btn-slider-right {
     transform: translateY(60%);
     height: 5rem;
@@ -324,7 +343,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
   }
   .btn-slider-right .btn-icon {
     font-size: 1.8rem;
-  }
+  } */
   .modal {
     transform: translate(-39%, -50%);
   }
@@ -358,15 +377,15 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
   }
 
   .slide {
-    height: 8.25rem;
-    width: 11rem;
+    height: 9rem;
+    width: 12rem;
   }
 
   .slider {
     margin: 0 3.5rem;
   }
 
-  .btn-slider-left,
+  /* .btn-slider-left,
   .btn-slider-right {
     height: 4rem;
     width: 2.5rem;
@@ -375,7 +394,7 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
   .btn-slider-left .btn-icon,
   .btn-slider-right .btn-icon {
     margin-top: 0.2rem;
-  }
+  } */
 }
 
 /*******************************
@@ -402,6 +421,11 @@ then, calc exact by multiplying 16 * 84 = below 1344px */
     right: 35%;
     top: 17%;
     transform: scale(0.8, 0.8);
+  }
+
+  .slide {
+    height: 8.25rem;
+    width: 11rem;
   }
 }
 

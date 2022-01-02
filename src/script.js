@@ -340,8 +340,13 @@ const yearSelect = document.querySelector(`.year-select`);
     //ADD CALENDAR BOOKINGS HERE
     /////////////////////////////
     addBooking([`September`, 2021, 17, 22]);
-    addBooking([`October`, 2021, 1, 6]);
+      addBooking([`October`, 2021, 1, 6]);
     addBooking([`November`, 2021, 12, 17]);
+
+    addBooking([`January`, 2022, 1, 31]);
+    addBooking([`February`, 2022, 1, 28]);
+    addBooking([`March`, 2022, 1, 31]);
+    addBooking([`April`, 2022, 24, 28]);
   };
   fillCalendarMonth();
 

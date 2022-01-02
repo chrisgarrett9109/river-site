@@ -290,9 +290,14 @@ body {
 
 .slider-box {
   overflow: hidden;
+  /* overflow: scroll; */
   position: relative;
   height: 35rem;
 }
+
+/* .slider-box::-webkit-scrollbar {
+  display: none;
+} */
 
 .slider {
   margin: 0 4.5rem;
