@@ -353,6 +353,7 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`July`, 2022, 10, 15]);
     addBooking([`July`, 2022, 20, 24]);
     addBooking([`August`, 2022, 7, 12]);
+    addBooking([`August`, 2022, 27, 31]);
   };
   fillCalendarMonth();
 
