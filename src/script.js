@@ -347,6 +347,7 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`May`, 2022, 20, 25]);
     addBooking([`May`, 2022, 27, 31]);
     addBooking([`June`, 2022, 3, 5]);
+    addBooking([`June`, 2022, 8, 10]);
     addBooking([`June`, 2022, 14, 20]);
     addBooking([`June`, 2022, 24, 26]);
     addBooking([`July`, 2022, 1, 5]);
