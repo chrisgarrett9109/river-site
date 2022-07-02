@@ -341,16 +341,16 @@ const yearSelect = document.querySelector(`.year-select`);
     /////////////////////////////
     // addBooking([`April`, 2022, 8, 16]);
     // addBooking([`April`, 2022, 24, 30]);
-    addBooking([`May`, 2022, 1, 5]);
-    addBooking([`May`, 2022, 6, 8]);
-    addBooking([`May`, 2022, 16, 19]);
-    addBooking([`May`, 2022, 20, 25]);
-    addBooking([`May`, 2022, 27, 31]);
-    addBooking([`June`, 2022, 3, 5]);
-    addBooking([`June`, 2022, 8, 10]);
-    addBooking([`June`, 2022, 14, 20]);
-    addBooking([`June`, 2022, 21, 23]);
-    addBooking([`June`, 2022, 24, 26]);
+    //addBooking([`May`, 2022, 1, 5]);
+    //addBooking([`May`, 2022, 6, 8]);
+    //addBooking([`May`, 2022, 16, 19]);
+    //addBooking([`May`, 2022, 20, 25]);
+    //addBooking([`May`, 2022, 27, 31]);
+    //addBooking([`June`, 2022, 3, 5]);
+    //addBooking([`June`, 2022, 8, 10]);
+    //addBooking([`June`, 2022, 14, 20]);
+    //addBooking([`June`, 2022, 21, 23]);
+    //addBooking([`June`, 2022, 24, 26]);
     addBooking([`July`, 2022, 1, 5]);
     addBooking([`July`, 2022, 7, 9]); //REQUSTED 10TH
     addBooking([`July`, 2022, 10, 15]);
@@ -359,8 +359,8 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`July`, 2022, 28, 31]);
     addBooking([`August`, 2022, 1, 3]);
     addBooking([`August`, 2022, 4, 7]);
-    addBooking([`August`, 2022, 19, 25]);
-    addBooking([`August`, 2022, 27, 31]);
+    addBooking([`August`, 2022, 8, 31]);
+    addBooking([`September`, 2022, 1, 30]);
   };
   fillCalendarMonth();
 
