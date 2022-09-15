@@ -351,12 +351,12 @@ const yearSelect = document.querySelector(`.year-select`);
     //addBooking([`June`, 2022, 14, 20]);
     //addBooking([`June`, 2022, 21, 23]);
     //addBooking([`June`, 2022, 24, 26]);
-    addBooking([`July`, 2022, 1, 5]);
-    addBooking([`July`, 2022, 7, 9]); //REQUSTED 10TH
-    addBooking([`July`, 2022, 10, 15]);
-    addBooking([`July`, 2022, 16, 17]);
-    addBooking([`July`, 2022, 20, 24]);
-    addBooking([`July`, 2022, 28, 31]);
+    //addBooking([`July`, 2022, 1, 5]);
+    //addBooking([`July`, 2022, 7, 9]); //REQUSTED 10TH
+    //addBooking([`July`, 2022, 10, 15]);
+    //addBooking([`July`, 2022, 16, 17]);
+    //addBooking([`July`, 2022, 20, 24]);
+    //addBooking([`July`, 2022, 28, 31]);
     addBooking([`August`, 2022, 1, 3]);
     addBooking([`August`, 2022, 4, 7]);
     addBooking([`August`, 2022, 8, 31]);
