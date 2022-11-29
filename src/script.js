@@ -363,6 +363,7 @@ const yearSelect = document.querySelector(`.year-select`);
     //addBooking([`September`, 2022, 1, 30]);
     addBooking([`October`, 2022, 3, 7]);
     addBooking([`October`, 2022, 9, 13]);
+    addBooking([`December`, 2022, 27, 28]); // Jeff Hall
     addBooking([`April`, 2023, 11, 25]);
     addBooking([`June`, 2023, 19, 22]); // Michael Moh
     addBooking([`July`, 2023, 24, 31]);
