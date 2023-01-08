@@ -361,14 +361,19 @@ const yearSelect = document.querySelector(`.year-select`);
     //addBooking([`August`, 2022, 4, 7]);
     //addBooking([`August`, 2022, 8, 31]);
     //addBooking([`September`, 2022, 1, 30]);
-    addBooking([`October`, 2022, 3, 7]);
-    addBooking([`October`, 2022, 9, 13]);
+    //addBooking([`October`, 2022, 3, 7]);
+    //addBooking([`October`, 2022, 9, 13]);
     addBooking([`December`, 2022, 27, 28]); // Jeff Hall
     addBooking([`April`, 2023, 8, 15]); // Pat Grady *8-16
     addBooking([`April`, 2023, 16, 30]); // Mom & dad
+    addBooking([`May`, 2023, 11, 15]); // Jeff Hall
     addBooking([`June`, 2023, 19, 22]); // Michael Moh
+    addBooking([`June`, 2023, 25, 30]); // Jeff Hall
     addBooking([`July`, 2023, 24, 31]);
     addBooking([`August`, 2023, 1, 11]);
+    addBooking([`August`, 2023, 13, 18]); // Jeff Hall
+    addBooking([`September`, 2023, 7, 10]); // Jeff Hall
+    addBooking([`October`, 2023, 12, 15]); // Jeff Hall
   };
   fillCalendarMonth();
 
