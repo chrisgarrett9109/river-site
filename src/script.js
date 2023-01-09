@@ -370,9 +370,13 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`June`, 2023, 19, 22]); // Michael Moh
     addBooking([`June`, 2023, 25, 30]); // Jeff Hall
     addBooking([`July`, 2023, 24, 31]);
+    addBooking([`July`, 2023, 9, 21]); // Zilgettes
     addBooking([`August`, 2023, 1, 11]);
     addBooking([`August`, 2023, 13, 18]); // Jeff Hall
+    addBooking([`August`, 2023, 20, 28]); // Zilgettes
     addBooking([`September`, 2023, 7, 10]); // Jeff Hall
+    addBooking([`September`, 2023, 11, 15]); // Zilgettes - arriving 10th
+    addBooking([`September`, 2023, 24, 29]); // Zilgettes
     addBooking([`October`, 2023, 12, 15]); // Jeff Hall
   };
   fillCalendarMonth();
