@@ -364,6 +364,9 @@ const yearSelect = document.querySelector(`.year-select`);
     //addBooking([`October`, 2022, 3, 7]);
     //addBooking([`October`, 2022, 9, 13]);
     addBooking([`December`, 2022, 27, 28]); // Jeff Hall
+    addBooking([`January`, 2023, 1, 31]); // Snow birds
+    addBooking([`February`, 2023, 1, 28]); // Snow birds
+    addBooking([`March`, 2023, 1, 31]); // Snow birds
     addBooking([`April`, 2023, 8, 15]); // Pat Grady *8-16
     addBooking([`April`, 2023, 16, 30]); // Mom & dad
     addBooking([`May`, 2023, 11, 15]); // Jeff Hall
