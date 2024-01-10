@@ -339,14 +339,53 @@ const yearSelect = document.querySelector(`.year-select`);
     /////////////////////////////
     //ADD CALENDAR BOOKINGS HERE
     /////////////////////////////
-    addBooking([`September`, 2021, 17, 22]);
-      addBooking([`October`, 2021, 1, 6]);
-    addBooking([`November`, 2021, 12, 17]);
-
-    addBooking([`January`, 2022, 1, 31]);
-    addBooking([`February`, 2022, 1, 28]);
-    addBooking([`March`, 2022, 1, 31]);
-    addBooking([`April`, 2022, 24, 28]);
+    // addBooking([`April`, 2022, 8, 16]);
+    // addBooking([`April`, 2022, 24, 30]);
+    //addBooking([`May`, 2022, 1, 5]);
+    //addBooking([`May`, 2022, 6, 8]);
+    //addBooking([`May`, 2022, 16, 19]);
+    //addBooking([`May`, 2022, 20, 25]);
+    //addBooking([`May`, 2022, 27, 31]);
+    //addBooking([`June`, 2022, 3, 5]);
+    //addBooking([`June`, 2022, 8, 10]);
+    //addBooking([`June`, 2022, 14, 20]);
+    //addBooking([`June`, 2022, 21, 23]);
+    //addBooking([`June`, 2022, 24, 26]);
+    //addBooking([`July`, 2022, 1, 5]);
+    //addBooking([`July`, 2022, 7, 9]); //REQUSTED 10TH
+    //addBooking([`July`, 2022, 10, 15]);
+    //addBooking([`July`, 2022, 16, 17]);
+    //addBooking([`July`, 2022, 20, 24]);
+    //addBooking([`July`, 2022, 28, 31]);
+    //addBooking([`August`, 2022, 1, 3]);
+    //addBooking([`August`, 2022, 4, 7]);
+    //addBooking([`August`, 2022, 8, 31]);
+    //addBooking([`September`, 2022, 1, 30]);
+    //addBooking([`October`, 2022, 3, 7]);
+    //addBooking([`October`, 2022, 9, 13]);
+    //addBooking([`December`, 2022, 27, 28]); // Jeff Hall
+    // addBooking([`January`, 2023, 1, 31]); // Snow birds
+    // addBooking([`February`, 2023, 1, 28]); // Snow birds
+    addBooking([`March`, 2023, 1, 31]); // Snow birds
+    addBooking([`April`, 2023, 8, 15]); // Pat Grady *8-16
+    addBooking([`April`, 2023, 16, 30]); // Mom & dad
+    addBooking([`May`, 2023, 11, 15]); // Jeff Hall
+    addBooking([`June`, 2023, 9, 15]); // Jeff Hall
+    addBooking([`June`, 2023, 19, 22]); // Michael Moh
+    addBooking([`June`, 2023, 25, 30]); // Jeff Hall
+    addBooking([`July`, 2023, 24, 31]);
+    addBooking([`July`, 2023, 9, 21]); // Zilgettes
+    addBooking([`August`, 2023, 1, 11]);
+    addBooking([`August`, 2023, 13, 18]); // Jeff Hall
+    addBooking([`August`, 2023, 20, 28]); // Zilgettes
+    addBooking([`September`, 2023, 7, 10]); // Jeff Hall
+    addBooking([`September`, 2023, 11, 15]); // Zilgettes - arriving 10th
+    addBooking([`September`, 2023, 24, 29]); // Zilgettes
+    addBooking([`October`, 2023, 12, 15]); // Jeff Hall
+    addBooking([`December`, 2023, 29, 31]); // Snow birds
+    addBooking([`January`, 2024, 1, 31]); // Snow birds
+    addBooking([`February`, 2024, 1, 29]); // Snow birds
+    addBooking([`March`, 2024, 1, 29]); // Snow birds
   };
   fillCalendarMonth();
 
