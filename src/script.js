@@ -386,6 +386,8 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`January`, 2024, 1, 31]); // Snow birds
     addBooking([`February`, 2024, 1, 29]); // Snow birds
     addBooking([`March`, 2024, 1, 29]); // Snow birds
+    addBooking([`April`, 2024, 4, 6]); // Jeff Hall
+    addBooking([`May`, 2024, 17, 20]); // Jeff Hall
     addBooking([`June`, 2024, 13, 16]); // Jeff Hall
     addBooking([`July`, 2024, 7, 11]); // Jeff Hall
     addBooking([`July`, 2024, 14, 29]); // Zilgitts
