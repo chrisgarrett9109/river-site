@@ -387,11 +387,12 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`February`, 2024, 1, 29]); // Snow birds
     addBooking([`March`, 2024, 1, 29]); // Snow birds
     addBooking([`April`, 2024, 4, 6]); // Jeff Hall
-    addBooking([`May`, 2024, 17, 20]); // Jeff Hall
+    addBooking([`May`, 2024, 16, 19]); // Jeff Hall
     addBooking([`June`, 2024, 13, 16]); // Jeff Hall
     addBooking([`July`, 2024, 7, 11]); // Jeff Hall
     addBooking([`July`, 2024, 14, 29]); // Zilgitts
     addBooking([`August`, 2024, 1, 11]); // Pat Grady
+    addBooking([`August`, 2024, 15, 18]); // Jeff Hall
     addBooking([`August`, 2024, 22, 29]); // Zilgitts
     addBooking([`September`, 2024, 4, 16]); // Zilgitts
     addBooking([`September`, 2024, 19, 22]); // Jeff Hall
