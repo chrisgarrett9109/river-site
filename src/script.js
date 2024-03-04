@@ -388,8 +388,7 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`March`, 2024, 1, 29]); // Snow birds
     addBooking([`April`, 2024, 4, 6]); // Jeff Hall
     addBooking([`May`, 2024, 16, 19]); // Jeff Hall
-    addBooking([`May`, 2024, 29, 31]); // Uncle Curt's plumber
-    addBooking([`June`, 2024, 1, 2]); // Uncle Curt's plumber
+    addBooking([`May`, 2024, 24, 27]); // Uncle Curt's plumber
     addBooking([`June`, 2024, 13, 16]); // Jeff Hall
     addBooking([`July`, 2024, 7, 11]); // Jeff Hall
     addBooking([`July`, 2024, 14, 29]); // Zilgitts
