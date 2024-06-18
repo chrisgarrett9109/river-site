@@ -391,6 +391,8 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`May`, 2024, 24, 27]); // Uncle Curt's plumber
     addBooking([`June`, 2024, 6, 10]); // Pat's Cousin
     addBooking([`June`, 2024, 13, 16]); // Jeff Hall
+    addBooking([`June`, 2024, 20, 23]); // Zilgitts
+    addBooking([`July`, 2024, 2, 6]); // Zilgitts
     addBooking([`July`, 2024, 7, 11]); // Jeff Hall
     addBooking([`July`, 2024, 14, 29]); // Zilgitts
     addBooking([`August`, 2024, 1, 11]); // Pat Grady
@@ -398,6 +400,12 @@ const yearSelect = document.querySelector(`.year-select`);
     addBooking([`August`, 2024, 22, 29]); // Zilgitts
     addBooking([`September`, 2024, 4, 16]); // Zilgitts
     addBooking([`September`, 2024, 19, 22]); // Jeff Hall
+    addBooking([`October`, 2024, 17, 20]); // Jeff Hall
+    addBooking([`December`, 2024, 1, 31]); // Zilgitts
+    addBooking([`January`, 2025, 1, 31]); // Zilgitts
+    addBooking([`February`, 2025, 1, 28]); // Zilgitts
+    addBooking([`March`, 2025, 1, 31]); // Zilgitts
+    addBooking([`April`, 2025, 1, 1]); // Zilgitts
   };
   fillCalendarMonth();
 
